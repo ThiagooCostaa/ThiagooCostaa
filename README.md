@@ -1,4 +1,4 @@
-👋 Olá meu nome é João Guilherme
+👋 Olá meu nome é Thiago Costa
 
 👀 Eu estou interessado em aprender a programar e configurar softwares
 
